@@ -1,2 +1,2 @@
-print('olá, mundo')
-input('Digite seu nome: ')
+nome = input('Digite seu nome: ')
+print(nome)
