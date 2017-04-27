@@ -8,7 +8,7 @@ def calculaFibonacci():
     pri = 0
     seg = 1
     fib = seg + pri
-    print("Sequência de Fibonatti até: ", numero )
+    print("Sequência de Fibonatti até: ", numero)
 
     cont = 0
 
