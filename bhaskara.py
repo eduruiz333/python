@@ -25,3 +25,6 @@ def imprime_raizes(a, b, c):
             raiz2 = (-b - math.sqrt(d)) / (2 * a)
             print('A primeira raiz é: ', raiz1)
             print('A segunda raiz é: ', raiz2)
+
+
+main()
