@@ -1,5 +1,3 @@
-from builtins import print
-
 fim = int(input('Digite um número para calcular a sequência de Fibonacci: '))
 
 
