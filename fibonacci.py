@@ -17,3 +17,4 @@ def calculaFibonacci():
         fib = seg + pri
         cont = cont + 1
 calculaFibonacci()
+print()
