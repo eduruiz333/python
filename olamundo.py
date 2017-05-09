@@ -1,2 +1,2 @@
-nome = input('Digite seu nome: ')
+edunome = input('Digite seu nome: ')
 print(nome)

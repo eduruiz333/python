@@ -15,5 +15,5 @@ imprime_primos = int(input('Digite o limite de númeris primos a exibir: '))
 n = 2
 while n < imprime_primos:
     if primo(n):
-        print(n, end='\t')
+        print(n, end=', ')
     n = n + 1
