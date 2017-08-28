@@ -1,4 +1,4 @@
-fim = int(input('Digite um número para calcular a sequência de Fibonacci: '))
+﻿fim = int(input('Digite um número para calcular a sequência de Fibonacci: '))
 
 
 def calculaFibonacci():
